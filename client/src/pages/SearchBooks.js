@@ -91,7 +91,6 @@ const SearchBooks = () => {
     }
   };
 
-  console.log(savedBookIds)
   return (
     <>
       <div className='text-light bg-dark pt-5'>
